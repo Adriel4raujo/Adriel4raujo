@@ -1,7 +1,6 @@
 ## Hi, I'm Adriel Araujo 👋
 
-- 🔭 I’m currently working on Eletra Energy Solutions as Software Analyst
-- 🌱 I’m currently learning Frontend Software Architecture
+- 🔭 I’m currently working on Eletra Energy Solutions as Leader Software Architect
 - 💬 Ask me about Backend Software Architecture and Software Engineering
 - 📫 How to reach me: adrielcontact@gmail.com
 
